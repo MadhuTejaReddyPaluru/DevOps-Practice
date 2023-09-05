@@ -1,7 +1,9 @@
 package BasicJavaprograms;
 
 public class BookClass1 {
-
+	public void add() {
+		 int a,b,c;
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
