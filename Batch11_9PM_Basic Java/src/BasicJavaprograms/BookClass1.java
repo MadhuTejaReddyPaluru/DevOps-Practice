@@ -7,6 +7,7 @@ public class BookClass1 {
 
 		System.out.println("Hello Java");
 		System.out.println("Enjoy Learning");
+		System.out.println("Learning Game");
 	}
 
 }
